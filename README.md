@@ -1,4 +1,6 @@
 # Tensorflow-Projects
 A repo for some machine learning projects 
 
-Hang around and It'll have smth for big data on medical imaging
+mnist: simple deep learning algorithm. Achieves 97% accuracy
+
+california housing: achieves $40,000 deviation from actual value
