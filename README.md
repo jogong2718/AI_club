@@ -1,13 +1,6 @@
-# Jigglyjonny: Jonny's Tensorflow Projects
-A repo for some machine learning projects. This repo stores *.ipynb* notebooks for machine learning applications. 
+# AI clubs tentative plans
 
-## My first projects
+1. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
 
-Keras datasets:
-
-1. mnist: simple deep learning algorithm. Achieves 97% accuracy.
-
-Colab sample statsets:
-
-1. california housing: achieves $40,000 deviation from actual value.
+2. california housing: implementing almost the same idea but not classifying
 
