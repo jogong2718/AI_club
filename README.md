@@ -4,5 +4,7 @@
 
 2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
 
+![main](https://thumbs.gfycat.com/SeparateFrayedChafer-max-1mb.gif)
+
 3. california housing: implementing almost the same idea but not classifying
 
