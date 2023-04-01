@@ -2,11 +2,11 @@
 
 1. Learn basic theories of neural networks and basics of python using Colab
 
-2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
-
 ```diff
 
-+ This is what we are urrently working on!
++ This is what we are currently working on!
+
+2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
 
 ```
 
