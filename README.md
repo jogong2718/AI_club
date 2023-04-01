@@ -4,6 +4,12 @@
 
 2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
 
+```diff
+
++ This is what we are urrently working on!
+
+```
+
 ![main](https://thumbs.gfycat.com/SeparateFrayedChafer-max-1mb.gif)
 First DNN be like
 
