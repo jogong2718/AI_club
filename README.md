@@ -6,7 +6,7 @@
 
 + This is what we are currently working on!
 
-2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
++ 2. mnist: simple deep learning algorithm. Learn the basics of a deep learning model that processes images
 
 ```
 
